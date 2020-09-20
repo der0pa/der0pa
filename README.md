@@ -1,13 +1,13 @@
 ### Hi there 👋
 
+
+https://organic-harsh-actor.glitch.me/ [glitch](http://glitch.com)
+
+
 <!--
 **der0pa/der0pa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-http://github.com - automatic!
-[GitHub](http://github.com)
 
-https://organic-harsh-actor.glitch.me/ 
-[glitch]
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 'glitch' apps
