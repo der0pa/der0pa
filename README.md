@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-https://organic-harsh-actor.glitch.me/[glitch](http://glitch.com)
+[my glitch apps](https://organic-harsh-actor.glitch.me/)
 
 
 <!--
