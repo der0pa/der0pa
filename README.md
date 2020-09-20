@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[cities_datasette_sample_app](https://tundra-plausible-timimus.glitch.me/)
-[d3_datasette sample_app](https://organic-harsh-actor.glitch.me/)
+- [cities_datasette_sample_app](https://tundra-plausible-timimus.glitch.me/)    
+- [d3_datasette sample_app](https://organic-harsh-actor.glitch.me/)
 
 
 <!--
