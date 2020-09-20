@@ -1,5 +1,6 @@
 ### Hi there 👋
-# currently working datasette on glitch.com
+### currently working datasette on [glitch.com](https://glitch.com]  
+
 - [cities_datasette_sample_app](https://tundra-plausible-timimus.glitch.me/)    
 - [d3_datasette sample_app](https://organic-harsh-actor.glitch.me/)
 
